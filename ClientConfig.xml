@@ -1,0 +1,9 @@
+<ClientConfig>
+	<GameClient name="Pixies Of The Forest WLA" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="PixiesOfTheForest" enableFreeSpin="N" clientversion="1.0" gameId="300-2085-0" />
+	<GameClient name="Pixies Of The Forest WLA" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="PixiesOfTheForest" enableFreeSpin="N" clientversion="1.0" gameId="300-2085-0" />
+	<GameClient name="Pixies Of The Forest WLA" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="PixiesOfTheForest" enableFreeSpin="N" clientversion="1.0" gameId="300-2085-0" />
+
+	<GameClient name="Pixies Of The Forest COM" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="PixiesOfTheForest" enableFreeSpin="N" clientversion="1.0" gameId="300-2085-1" />
+	<GameClient name="Pixies Of The Forest COM" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="PixiesOfTheForest" enableFreeSpin="N" clientversion="1.0" gameId="300-2085-1" />
+	<GameClient name="Pixies Of The Forest COM" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="PixiesOfTheForest" enableFreeSpin="N" clientversion="1.0" gameId="300-2085-1" />
+</ClientConfig>
